@@ -5,7 +5,7 @@
  union all
  select * from my-sqlproject-38244.sales.feb
  union all 
- select * from my-sqlproject-38244.sales.mar it
+ select * from my-sqlproject-38244.sales.mar
  union all 
  select * from my-sqlproject-38244.sales.apr
  union all 
